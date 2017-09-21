@@ -6,3 +6,14 @@
 
 영어 글씨체:HPSimplified light
 한글 글씨체:나눔고딕light
+
+
+
+
+light
+
+상태바86bbc5
+타이틀바 8bc8d3
+핑쿠색f2cdda
+글씨색1f1f1f
+배경색 cae5ea
